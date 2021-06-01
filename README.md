@@ -20,14 +20,6 @@ Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
 <strong>demo:</strong> https://stronyireszta.pl/gwiazdki-oceny<br>
 <strong>demo 2 (pod wpisem):</strong> https://stronyireszta.pl/sklep-internetowy-na-wordpressie-wtyczka-woocommerce
 
-## ⚡⚡⚡ Kodowanie do HTML, CSS, JS ⚡⚡⚡
-### Test responsywnego menu bez JS
-Resposnywne menu można zbudować bez wykorzystania JSa. Użyłem zamiast niego elementu LABEL i podobało mi się to rozwiązanie, dopóki... na jednej z rekrytacji zwrócono mi uwagę, że jest to niezgodne z dokumentacją HTMLa. :(
-
-<strong>repo i więcej informacji:</strong> https://github.com/mkrawczykowski/product-factory<br>
-<strong>demo:</strong> https://product-factory.stronyireszta.pl/<br>
-<strong>projekt XD pobrany z Internetu:</strong> https://www.uistore.design/items/product-factory-landing-page-for-adobe-xd/<br>
-
 ## ⚡⚡⚡ Javascript - przykładowe aplikacje ⚡⚡⚡
 ### Ramię robota
 Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczeniem kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
