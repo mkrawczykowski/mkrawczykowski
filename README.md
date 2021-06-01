@@ -1,16 +1,19 @@
-### Hi there 👋
+# Michał Krawczykowski - frontend developer + Wordpress dev
+# (opis w trakcie rozbudowy)
 
-<!--
-**mkrawczykowski/mkrawczykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡⚡⚡ Javascript - przykładowe aplikacje
 
-Here are some ideas to get you started:
+### Ramię robota
+Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczeniem kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trochę trygonometrii i udało się. Jest to projekt, który stworzyłem, gdy pierwszy raz zobaczyłem Raspberry Pi i zamarzyło mi się budowanie robotów za pomocą JavaScriptu ;)
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/canvas-ramie<br>
+<strong>demo:</strong> https://canvas-ramie.stronyireszta.pl/
+
+## ⚡⚡⚡ Kodowanie do Wordpressa
+### Prosta strona z CPT i ACF Pro
+Stronę wykonałem jako podwykonawca dla agencji na bazie projektu, który dostarczyli.
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
+<strong>strona:</strong> https://www.smartinzynieria.pl/
