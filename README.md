@@ -17,3 +17,15 @@ Stronę wykonałem jako podwykonawca dla agencji na bazie projektu, który dosta
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
 <strong>strona:</strong> https://www.smartinzynieria.pl/
+<br>
+<br>
+### Wtyczka do Wordpressa - "gwiazdkowe" ocenianie artykułu
+Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
+- AJAX
+- ACF Pro
+- animacje CSS
+- ciasteczka
+
+<strong>repo i więcej informacji:</strong> https://github.com/mkrawczykowski/gwiazdki-wordpress-plugin<br>
+<strong>demo:</strong> https://stronyireszta.pl/gwiazdki-oceny<br>
+<strong>demo 2 (pod wpisem):</strong> https://stronyireszta.pl/sklep-internetowy-na-wordpressie-wtyczka-woocommerce
