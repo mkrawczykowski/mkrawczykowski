@@ -1,6 +1,6 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
 ## (opis w trakcie rozbudowy)
-
+<br><br>
 ## ⚡⚡⚡ Kodowanie do Wordpressa ⚡⚡⚡
 ### Prosta strona z CPT i ACF Pro
 Stronę wykonałem jako podwykonawca dla agencji na bazie projektu, który dostarczyli.
