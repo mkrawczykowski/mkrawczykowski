@@ -3,7 +3,7 @@
 <br><br>
 ## ⚡⚡⚡ Kodowanie do Wordpressa ⚡⚡⚡
 ### Prosta strona z CPT i ACF Pro
-Stronę wykonałem jako podwykonawca dla agencji na bazie projektu, który dostarczyli.
+Stronę wykonałem jako podwykonawca dla agencji na bazie projektu w XD, który dostarczyli.
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
 <strong>strona:</strong> https://www.smartinzynieria.pl/
