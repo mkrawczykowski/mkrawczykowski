@@ -20,6 +20,14 @@ Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
 <strong>demo:</strong> https://stronyireszta.pl/gwiazdki-oceny<br>
 <strong>demo 2 (pod wpisem):</strong> https://stronyireszta.pl/sklep-internetowy-na-wordpressie-wtyczka-woocommerce
 
+## ⚡⚡⚡ Zadanie rekrutacyjne ⚡⚡⚡
+### slajder, ACF Pro, mówj pierwszy moduł do Gutenberga
+W tym zadaniu rekrutacyjnym stworzyłem swój pierwszy blok do Gutenberga. Nie bardzo jestem zadowolony (choć działa ;)), więc to temat do dopracowania.
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/zadanie-rekrutacyjne<br>
+<br>
+<br>
+
 ## ⚡⚡⚡ Javascript - przykładowe aplikacje ⚡⚡⚡
 ### Ramię robota
 Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczeniem kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
