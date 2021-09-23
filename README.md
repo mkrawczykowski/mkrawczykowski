@@ -33,7 +33,7 @@ W tym zadaniu rekrutacyjnym stworzyłem swój pierwszy blok do Gutenberga. Nie b
 
 ## ⚡⚡⚡ Javascript - przykładowe aplikacje ⚡⚡⚡
 ### Ramię robota
-Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczeniem kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
+Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczenie kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
 
 Trochę trygonometrii i udało się. Jest to projekt, który stworzyłem, gdy pierwszy raz zobaczyłem Raspberry Pi i zamarzyło mi się budowanie robotów za pomocą JavaScriptu ;)
 
