@@ -1,7 +1,7 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
 ## (description in the making)
 <br><br>
-## ⚡⚡⚡ Kodowanie do Wordpressa ⚡⚡⚡
+## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 ### Simple website with CPT and ACF Pro for a client
 I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
 
