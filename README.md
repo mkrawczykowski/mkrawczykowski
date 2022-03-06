@@ -23,13 +23,6 @@ Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
 <br>
 <br>
 <br>
-### Zadanie rekrutacyjne - slajder, ACF Pro, mój pierwszy moduł do Gutenberga
-W tym zadaniu rekrutacyjnym stworzyłem swój pierwszy blok do Gutenberga. Nie bardzo jestem zadowolony (choć działa ;)), więc to temat do dopracowania.
-
-<strong>repo:</strong> https://github.com/mkrawczykowski/zadanie-rekrutacyjne<br>
-<br>
-<br>
-<br>
 
 ## ⚡⚡⚡ Javascript - przykładowe aplikacje ⚡⚡⚡
 ### Ramię robota
