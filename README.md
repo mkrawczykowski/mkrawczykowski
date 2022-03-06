@@ -11,7 +11,7 @@ I've created the website as a subcontractror for an agency. It is based on Adobe
 <br>
 <br>
 ### Wordpress plugin - star rating for Wordpress posts
-I'm not an experienced plugin creator as I know only basic PHP, but from time to time I like to create a plugin even from myself. This one I use on my blog, no longer 
+I'm not an experienced plugin creator as I know only basic PHP, but from time to time I like to create a plugin even from myself. This one I used on my owm website/blog blog, no longer updated.
 - AJAX
 - ACF Pro
 - CSS animations
