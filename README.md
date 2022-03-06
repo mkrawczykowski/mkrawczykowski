@@ -1,17 +1,17 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
-## (opis w trakcie rozbudowy)
+## (description in the making)
 <br><br>
 ## ⚡⚡⚡ Kodowanie do Wordpressa ⚡⚡⚡
-### Prosta strona z CPT i ACF Pro
-Stronę wykonałem jako podwykonawca dla agencji na bazie projektu w XD, który dostarczyli.
+### Simple website with CPT and ACF Pro for a client
+I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
-<strong>strona:</strong> https://www.smartinzynieria.pl/
+<strong>website:</strong> https://www.smartinzynieria.pl/
 <br>
 <br>
 <br>
-### Wtyczka do Wordpressa - "gwiazdkowe" ocenianie artykułu
-Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
+### Wordpress plugin - star rating for Wordpress posts
+I'm not an experienced plugin creator as I know only basic PHP, but from time to time I like to create a plugin even from myself. This one I use on my blog, no longer 
 - AJAX
 - ACF Pro
 - animacje CSS
@@ -26,9 +26,8 @@ Jedna z moich nielicznych wtyczek do Wordpressa, ale za to wykorzystująca:
 
 ## ⚡⚡⚡ Javascript - przykładowe aplikacje ⚡⚡⚡
 ### Ramię robota
-Dość stary projekt (z bardzo chaotycznym kodem). Ramię składa się z dwóch elementów o jednakowej długości. Zadaniem algorytmu jest liczenie kątów w taki sposób, aby końcówka zawsze miała taką samą współrzędną X - czyli aby ramię miało możliwość np. narysowania prostej linii kredą na pionowej tablicy.
-
-Trochę trygonometrii i udało się. Jest to projekt, który stworzyłem, gdy pierwszy raz zobaczyłem Raspberry Pi i zamarzyło mi się budowanie robotów za pomocą JavaScriptu ;)
+When I first heard about Raspberry Pi, I thought 'Is it possible to control it with code written in Javascript? It turned out it is, so I decided to make first preparations to create a robot arm: writing some test code that would be used in a real device in the future.
+The idea is simple: I wanted to create a robot arm made up of two parts of equal length (to make calculations simpler; with two equal length arms we have kind of isosceles triangle), and arm's purpose was to be able to move its ending only on Y axis and not to move it on X axis. This requires the angles in triangle to be calculated in "real time" (every time a user changes the HTML range element). I don't know much about trygonometry, but The University of Wikipedia was here to help ;).
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/canvas-ramie<br>
-<strong>demo:</strong> https://canvas-ramie.stronyireszta.pl/
+<strong>demo:</strong> https://robot-arm.stronyireszta.pl//
