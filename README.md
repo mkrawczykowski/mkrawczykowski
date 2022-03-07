@@ -59,6 +59,16 @@ An old app of mine to generate 3D book covers from JPG images. You can rotate yo
 ### ⚡ Robot arm
 When I first heard about Raspberry Pi, I thought 'Is it possible to control it with code written in Javascript? It turned out it is, so I decided to make first preparations to create a robot arm: writing some test code that would be used in a real device in the future.<br><br>
 The idea is simple: I wanted to create a robot arm made up of two parts of equal length (to make calculations simpler; with two equal length arms we have kind of isosceles triangle), and arm's purpose was to be able to move its ending only on Y axis and not to move it on X axis. This requires the angles in triangle to be calculated in "real time" (every time a user changes the HTML range element). I don't know much about trygonometry, but The University of Wikipedia was here to help ;).
-
+<br>
 <strong>repo:</strong> https://github.com/mkrawczykowski/robot-arm<br>
 <strong>demo:</strong> https://robot-arm.stronyireszta.pl/
+<br>
+<br>
+<br>
+<br><br>
+### ⚡ Chess game
+When I wanted to practice object-oriented programming in JS, I was looking for an idea for an app I could write. One day my brother was playing chess with our cousin and I thought: hey, it'd be a fun way to practice using objects! And hey - let's use Websocket too, to let two players play with eachother (I've never used Websocket before, but it seemed like an interesting piece of technology)
+Working on chess game really was fun, but a bit too difficult. Some elements already work (like generating of a chessboard or moving a piece), but I stopped working on it for now as the code is a bit too hard for me to add new fatures. I think I don't have enough experience yet to finish it.
+<br>
+<strong>repo:</strong> https://github.com/mkrawczykowski/wbpack-szachownica<br>
+<strong>demo:</strong> https://stronyireszta.pl/portfolio/chess/
