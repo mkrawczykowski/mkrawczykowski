@@ -31,6 +31,7 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br>
 <br>
 <br>
+
 ## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br>
 <br>
