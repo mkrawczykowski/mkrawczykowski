@@ -25,7 +25,6 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 - ACF Pro
 - CSS animations
 - cookies
-
 <strong>repo and more info:</strong> https://github.com/mkrawczykowski/gwiazdki-wordpress-plugin<br>
 <strong>demo:</strong> https://stronyireszta.pl/gwiazdki-oceny<br>
 <strong>demo 2 (under the post):</strong> https://stronyireszta.pl/sklep-internetowy-na-wordpressie-wtyczka-woocommerce
@@ -33,29 +32,22 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br>
 <br>
 <br><br>
-## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
-<br><br>
-## ⚡ Tabs exercise
-Just a simple exercise on how to create tabs witth only CSS.<br>
-**repo:** https://github.com/mkrawczykowski/tab-resp-nav<br>
-**demo:** https://stronyireszta.pl/portfolio/tab-resp-nav/
-<br><br>
-## ⚡ Simple slider
-One day I decided to create a slider on my own.
-<br>
-**repo:** https://github.com/mkrawczykowski/very-simple-slider<br>
-**demo:** https://stronyireszta.pl/portfolio/very-simple-slider/
-<br><br>
 ## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br><br>
 ## ⚡ 3D cover generator made with Three.js
-An old app of mine to generate 3D book covers from JPG images. You can rotate your cover in 3D space and export it to PNG file.<br>
-**repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
+Surfer SEO is a tool for professional SEO experts that helps creating well optimized contents. It uses reverse engineering methodology: helps us to find out what phrases and words does the highly ranked contents use so we can use the same phrases and words in our contents. You input a keyphrase you are interested in and Surfer SEO shows:
+- what phrases to use
+- how many of each of those phrases should we use in our content<br>
+**repo:** https://github.com/mkrawczykowski/surfer-tool<br>
 **working app:** https://stronyireszta.pl/generator-coverow
 <br>
 <br>
+## ⚡ 3D cover generator made with Three.js
+An old app of mine to generate 3D book covers from JPG images. You can rotate your cover in 3D space and export it to PNG file.<br>
+**repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
+**working app:** https://stronyireszta.pl/portfolio/surfer-tool/
 <br>
-<br><br>
+<br>
 ### ⚡ Chess game
 When I wanted to practice object-oriented programming in JS, I was looking for an idea for an app I could write. One day my brother was playing chess with our cousin and I thought: hey, it'd be a fun way to practice using objects! And hey - let's use Websocket too, to let two players play with eachother (I've never used Websocket before, but it seemed like an interesting piece of technology)
 Working on chess game really was fun, but a bit too difficult. Some elements already work (like generating of a chessboard or moving a piece), but I stopped working on it for now as the code is a bit too hard for me to add new fatures. I think I don't have enough experience yet to finish it.
@@ -80,4 +72,18 @@ Polish names of variables and just a simple pre-ES6 JS (plus jQuery!), so pretty
 <strong>demo:</strong> https://stronyireszta.pl/portfolio/calculator/
 <br>
 <br>
-
+<br>
+<br><br>
+## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
+<br><br>
+## ⚡ Tabs exercise
+Just a simple exercise on how to create tabs witth only CSS.<br>
+**repo:** https://github.com/mkrawczykowski/tab-resp-nav<br>
+**demo:** https://stronyireszta.pl/portfolio/tab-resp-nav/
+<br><br>
+## ⚡ Simple slider
+One day I decided to create a slider on my own.
+<br>
+**repo:** https://github.com/mkrawczykowski/very-simple-slider<br>
+**demo:** https://stronyireszta.pl/portfolio/very-simple-slider/
+<br><br>
