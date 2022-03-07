@@ -35,12 +35,12 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br><br>
 ## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
 <br><br>
-## Tabs exercise
+## ⚡ Tabs exercise
 Just a simple exercise on how to create tabs witth only CSS.<br>
 **repo:** https://github.com/mkrawczykowski/tab-resp-nav<br>
 **demo:** https://stronyireszta.pl/portfolio/tab-resp-nav/
 <br><br>
-## Simple slider
+## ⚡ Simple slider
 One day I decided to create a slider on my own.
 <br>
 **repo:** https://github.com/mkrawczykowski/very-simple-slider<br>
@@ -48,7 +48,7 @@ One day I decided to create a slider on my own.
 <br><br>
 ## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br><br>
-## 3D cover generator made with Three.js
+## ⚡ 3D cover generator made with Three.js
 An old app of mine to generate 3D book covers from JPG images. You can rotate your cover in 3D space and export it to PNG file.<br>
 **repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
 **working app:** https://stronyireszta.pl/generator-coverow
