@@ -33,6 +33,16 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br>
 <br>
 <br><br>
+## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
+<br><br>
+## Tabs exercise
+Just a simple exercise on how to create tabs witth only CSS.
+**repo:** https://github.com/mkrawczykowski/tab-resp-nav<br>
+**demo:** https://stronyireszta.pl/portfolio/tab-resp-nav/
+<br>
+<br>
+<br>
+<br><br>
 ## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br><br>
 ### ⚡ Robot arm
