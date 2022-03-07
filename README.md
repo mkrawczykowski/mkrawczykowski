@@ -40,6 +40,14 @@ Just a simple exercise on how to create tabs witth only CSS.<br>
 **repo:** https://github.com/mkrawczykowski/tab-resp-nav<br>
 **demo:** https://stronyireszta.pl/portfolio/tab-resp-nav/
 <br><br>
+## Simple slider
+One day I decided to create a slider on my own.
+<br>
+**repo:** https://github.com/mkrawczykowski/very-simple-slider<br>
+**demo:** https://stronyireszta.pl/portfolio/very-simple-slider/
+<br><br>
+## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
+<br><br>
 ## 3D cover generator made with Three.js
 An old app of mine to generate 3D book covers from JPG images. You can rotate your cover in 3D space and export it to PNG file.<br>
 **repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
@@ -47,8 +55,6 @@ An old app of mine to generate 3D book covers from JPG images. You can rotate yo
 <br>
 <br>
 <br>
-<br><br>
-## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br><br>
 ### ⚡ Robot arm
 When I first heard about Raspberry Pi, I thought 'Is it possible to control it with code written in Javascript? It turned out it is, so I decided to make first preparations to create a robot arm: writing some test code that would be used in a real device in the future.<br><br>
