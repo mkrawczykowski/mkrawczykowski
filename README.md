@@ -3,7 +3,6 @@
 <br><br>
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br><br>
-
 ### ⚡ Portfolio Wordpress website (in the making)
 A website created to practice coding based on Adobe XD project file.<br><br>
 Wordpress theme, Webpack, ACF Pro (fields exporting to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
