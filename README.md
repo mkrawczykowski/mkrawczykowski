@@ -2,6 +2,14 @@
 ## (description in the making)
 <br><br>
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
+### Portfolio Wordpress website (in the making)
+A website created to practice coding based on Adobe XD project file.<br><br>
+Wordpress theme, Webpack, ACF Pro (fields exported to in JSON files), custom Gutenberg blocks, pixel perfect, etc.<br><br>
+<strong>repo:</strong> https://github.com/mkrawczykowski/portfolio-responsive-template<br>
+<strong>website:</strong> https://portfolio-responsive-template.stronyireszta.pl/
+<br>
+<br>
+<br>
 ### Simple website with CPT and ACF Pro for a client
 I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
 
