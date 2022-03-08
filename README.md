@@ -3,11 +3,15 @@
 <br><br>
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br><br>
-### ⚡ Portfolio Wordpress website (in the making)
+<br>
+<br>
+### ⚡⚡ FEATURED: Portfolio Wordpress website (in the making) ⚡⚡
 A website created to practice coding based on Adobe XD project file.<br><br>
-Wordpress theme, Webpack, ACF Pro (fields exporting to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
+Wordpress theme, Webpack, ACF Pro (fields exported to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
 <strong>repo:</strong> https://github.com/mkrawczykowski/portfolio-responsive-template<br>
 <strong>website:</strong> https://portfolio-responsive-template.stronyireszta.pl/
+<br>
+<br>
 <br>
 <br>
 
