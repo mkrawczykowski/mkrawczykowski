@@ -42,14 +42,14 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 ## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
 <br>
 
-### ⚡ 3D cover generator made with Three.js
+### ⚡ Surfer SEO-based tool to create better optimized contents
 Surfer SEO is a tool for professional SEO experts that helps creating well optimized contents. It uses reverse engineering methodology: helps us to find out what phrases and words does the highly ranked contents use so we can use the same phrases and words in our contents. You input a keyphrase you are interested in and Surfer SEO shows:
 - what phrases to use
 - how many of each of those phrases should we use in our content
 <br>
 
 **repo:** https://github.com/mkrawczykowski/surfer-tool<br>
-**working app:** https://stronyireszta.pl/generator-coverow
+**working app:** https://stronyireszta.pl/portfolio/surfer-tool/
 <br>
 
 ### ⚡ 3D cover generator made with Three.js
@@ -57,7 +57,7 @@ An old app of mine to generate 3D book covers from JPG images. You can rotate yo
 <br>
 
 **repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
-**working app:** https://stronyireszta.pl/portfolio/surfer-tool/
+**working app:** https://stronyireszta.pl/generator-coverow
 <br>
 
 ### ⚡ Chess game
