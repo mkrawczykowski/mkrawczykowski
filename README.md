@@ -4,7 +4,6 @@
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br><br>
 <br>
-<br>
 ### ⚡⚡ FEATURED: Portfolio Wordpress website (in the making) ⚡⚡
 A website created to practice coding based on Adobe XD project file.<br><br>
 Wordpress theme, Webpack, ACF Pro (fields exported to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
@@ -75,7 +74,7 @@ The idea is simple: I wanted to create a robot arm made up of two parts of equal
 <br>
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/robot-arm<br>
-<strong>demo:</strong> https://robot-arm.stronyireszta.pl/
+<strong>demo:</strong> https://stronyireszta.pl/portfolio/robot-arm/
 <br>
 
 ### ⚡ Calculator
