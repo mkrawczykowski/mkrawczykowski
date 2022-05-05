@@ -42,12 +42,12 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br>
 
 ### ⚡ Surfer SEO-based tool to create better optimized contents
-Surfer SEO is a tool for professional SEO experts that helps creating well optimized contents. It uses reverse engineering methodology: helps us to find out what phrases and words does the highly ranked contents use so we can use the same phrases and words in our contents. You input a keyphrase you are interested in and Surfer SEO shows:
+Surfer SEO is a tool for professional SEO experts that helps creating well optimized contents. It uses reverse engineering methodology: helps us to find out what phrases and words the highly ranked contents use so we can use the same phrases and words in our contents. You input a keyphrase you are interested in and Surfer SEO shows:
 - what phrases to use
 - how many of each of those phrases should we use in our content
 <br>
 
-**repo:** https://github.com/mkrawczykowski/surfer-tool<br>
+**repo + instructions:** https://github.com/mkrawczykowski/surfer-tool<br>
 **working app:** https://stronyireszta.pl/portfolio/surfer-tool/
 <br>
 
