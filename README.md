@@ -1,10 +1,22 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
-## (description in the making)
+
 <br><br>
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br><br>
 <br>
-### ⚡⚡ FEATURED: Portfolio Wordpress website (in the making) ⚡⚡
+### ⚡ Simple website with CPT and ACF Pro for a client
+I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
+<br>
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
+<strong>website:</strong> https://www.smartinzynieria.pl/
+<br>
+<br>
+<br>
+<br>
+
+
+### ⚡⚡ Portfolio Wordpress website (in the making) ⚡⚡
 A website created to practice coding based on Adobe XD project file.<br><br>
 Wordpress theme, Webpack, ACF Pro (fields exported to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
 <strong>⚡repo & more detailed description:⚡</strong> https://github.com/mkrawczykowski/portfolio-responsive-template<br>
@@ -12,14 +24,6 @@ Wordpress theme, Webpack, ACF Pro (fields exported to JSON files), custom Gutenb
 <br>
 <br>
 <br>
-<br>
-
-### ⚡ Simple website with CPT and ACF Pro for a client
-I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
-<br>
-
-<strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
-<strong>website:</strong> https://www.smartinzynieria.pl/
 <br>
 
 ### ⚡ Wordpress plugin - star rating for Wordpress posts
