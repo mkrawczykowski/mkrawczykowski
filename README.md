@@ -1,5 +1,5 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
-<br><br>
+<br>
 ## Main tools I use:
 - coding from Figma, Adobe XD and even... from Adobe Photoshop ;)
 - SASS + BEM
@@ -9,10 +9,11 @@
 - Webpack
 
 ## Currently learning:
+- coding Gutenberg blocks
 - React
 - NextJS
   
-<br><br>
+<br><br><br>
 # 2021 and before
 
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
