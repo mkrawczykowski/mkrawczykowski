@@ -14,12 +14,32 @@
 - coding Gutenberg blocks
 - React
 - NextJS
+<br><br>
+
+## ⚡⚡⚡ Recent projects ⚡⚡⚡
+<br>
+<br>
+### ⚡ A Wordpress website for a client
+- coded from Adobe XD
+- SASS + BEM
+- Wordpress
+- DRY PHP code
+- ACF Pro + sections built with Flexible Field
+- Webpack
+- ...aaand some JavaScript<br>
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/wordpress-for-client-acf-flexible-adobe-xd<br>
+<strong>website:</strong> https://www.klubbokserskiteddy.pl/
+<br>
+<br>
+<br>
+<br>
   
 <br><br><br>
 # 2021 and before
 
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
-<br><br>
+<br>
 <br>
 ### ⚡ Simple website with CPT and ACF Pro for a client
 I've created the website as a subcontractror for an agency. It is based on Adobe XD project.
