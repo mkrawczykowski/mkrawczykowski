@@ -68,8 +68,8 @@ I'm not an experienced plugin creator as I know only basic PHP, but from time to
 <br>
 <br><br>
 
-## ⚡⚡⚡ Javascript - example apps ⚡⚡⚡
-<br>
+<br><br><br>
+# Before 2021
 
 ### ⚡ Surfer SEO-based tool to create better optimized contents
 Surfer SEO is a tool for professional SEO experts that helps creating well optimized contents. It uses reverse engineering methodology: helps us to find out what phrases and words the highly ranked contents use so we can use the same phrases and words in our contents. You input a keyphrase you are interested in and Surfer SEO shows:
@@ -107,17 +107,6 @@ The idea is simple: I wanted to create a robot arm made up of two parts of equal
 <strong>demo:</strong> https://stronyireszta.pl/portfolio/robot-arm/
 <br>
 
-### ⚡ Calculator
-A simple calculator, one of my first apps written in JS a few years ago. The First Rule of The Universe says: EVERY frontend dev needs a CALCUATOR in portfolio, so I'm not going to break this rule.<br>
-Polish names of variables and just a simple pre-ES6 JS (plus jQuery!), so pretty crappy.
-<br>
-
-<strong>repo:</strong> https://github.com/mkrawczykowski/calculator<br>
-<strong>demo:</strong> https://stronyireszta.pl/portfolio/calculator/
-<br>
-<br>
-<br>
-<br><br>
 ## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
 <br>
 
