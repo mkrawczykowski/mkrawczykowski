@@ -19,6 +19,7 @@
 # ⚡⚡⚡ Recent projects ⚡⚡⚡
 <br>
 <br>
+
 ### ⚡ A Wordpress website for a client
 - coded from Adobe XD
 - SASS + BEM
