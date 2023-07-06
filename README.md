@@ -14,9 +14,9 @@
 - coding Gutenberg blocks
 - React
 - NextJS
-<br><br>
+<br><br><br><br>
 
-## ⚡⚡⚡ Recent projects ⚡⚡⚡
+# ⚡⚡⚡ Recent projects ⚡⚡⚡
 <br>
 <br>
 ### ⚡ A Wordpress website for a client
