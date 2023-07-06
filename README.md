@@ -107,7 +107,7 @@ The idea is simple: I wanted to create a robot arm made up of two parts of equal
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/robot-arm<br>
 <strong>demo:</strong> https://stronyireszta.pl/portfolio/robot-arm/
-<br>
+<br><br><br>
 
 ## ⚡⚡⚡ Elements of interfaces ⚡⚡⚡
 <br>
