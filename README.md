@@ -1,6 +1,7 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
 
 <br>
+
 ## Main tools I use:
 - coding from Figma, Adobe XD and even... from Adobe Photoshop ;)
 - SASS + BEM
