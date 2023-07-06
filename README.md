@@ -11,7 +11,8 @@
 ## Currently learning:
 - React
 - NextJS
-
+  
+<br><br>
 # 2021 and before
 
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
