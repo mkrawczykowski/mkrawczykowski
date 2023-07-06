@@ -37,8 +37,6 @@
   
 <br><br><br>
 # 2021 and before
-
-## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br>
 <br>
 ### ⚡ Simple website with CPT and ACF Pro for a client
@@ -79,6 +77,7 @@ Surfer SEO is a tool for professional SEO experts that helps creating well optim
 
 **repo + instructions:** https://github.com/mkrawczykowski/surfer-tool<br>
 **working app:** https://stronyireszta.pl/portfolio/surfer-tool/
+<br><br>
 <br>
 
 ### ⚡ 3D cover generator made with Three.js
@@ -87,6 +86,7 @@ An old app of mine to generate 3D book covers from JPG images. You can rotate yo
 
 **repo:** https://github.com/mkrawczykowski/3d-cover-generator<br>
 **working app:** https://stronyireszta.pl/generator-coverow
+<br><br>
 <br>
 
 ### ⚡ Chess game
@@ -96,6 +96,7 @@ Working on chess game really was fun, but a bit too difficult. Some elements alr
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/wbpack-szachownica<br>
 <strong>demo:</strong> https://stronyireszta.pl/portfolio/chess/
+<br><br>
 <br>
 
 ### ⚡ Robot arm
