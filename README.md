@@ -1,6 +1,19 @@
 # Michał Krawczykowski - frontend developer + Wordpress dev
-
 <br><br>
+## Main tools I use:
+- coding from Figma, Adobe XD and even... from Adobe Photoshop ;)
+- SASS + BEM
+- JavaScript
+- WordPress + ACF Pro + just started coding custom Gutenberg blocks
+- DRY PHP code
+- Webpack
+
+## Currently learning:
+- React
+- NextJS
+
+# 2021 and before
+
 ## ⚡⚡⚡ Wordpress Websites ⚡⚡⚡
 <br><br>
 <br>
@@ -10,17 +23,6 @@ I've created the website as a subcontractror for an agency. It is based on Adobe
 
 <strong>repo:</strong> https://github.com/mkrawczykowski/simple-wordpress-site<br>
 <strong>website:</strong> https://www.smartinzynieria.pl/
-<br>
-<br>
-<br>
-<br>
-
-
-### ⚡⚡ Portfolio Wordpress website (in the making) ⚡⚡
-A website created to practice coding based on Adobe XD project file.<br><br>
-Wordpress theme, Webpack, ACF Pro (fields exported to JSON files), custom Gutenberg blocks as a plugin, pixel perfect, etc.<br><br>
-<strong>⚡repo & more detailed description:⚡</strong> https://github.com/mkrawczykowski/portfolio-responsive-template<br>
-<strong>website:</strong> https://portfolio-responsive-template.stronyireszta.pl/
 <br>
 <br>
 <br>
