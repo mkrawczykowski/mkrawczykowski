@@ -18,7 +18,9 @@
 
 # ⚡⚡⚡ Recent projects ⚡⚡⚡
 <br>
+
 ### ⚡ My personal project with WP REST API, mega menu & Gutenberg blocks
+
 - coded from Figma
 - (almost) pixel perfect
 - mega menu
