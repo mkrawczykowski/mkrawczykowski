@@ -28,7 +28,7 @@
 - Webpack
 - ...aaand some JavaScript<br>
 
-<strong>repo:</strong> https://github.com/mkrawczykowski/wordpress-for-client-acf-flexible-adobe-xd<br>
+<strong>repo + more info:</strong> https://github.com/mkrawczykowski/wordpress-for-client-acf-flexible-adobe-xd<br>
 <strong>website:</strong> https://www.klubbokserskiteddy.pl/
 <br>
 <br>
@@ -45,7 +45,7 @@
 - Webpack
 - and some JavaScript<br>
 
-<strong>repo:</strong> https://github.com/mkrawczykowski/task-erp<br>
+<strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/task-erp<br>
 <strong>website:</strong> http://erp.stronyireszta.pl/
 <br>
 <br>
