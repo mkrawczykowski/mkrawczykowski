@@ -34,6 +34,23 @@
 <br>
 <br>
 <br>
+
+### ⚡ (almost) Pixel perfect recruitment assignment - Wordpress website with Gutenberg
+- coded from Figma
+- (almost) pixel perfect
+- SASS + BEM
+- Wordpress
+- DRY PHP code
+- custom Gutenberg blocks built with ACF Pro
+- Webpack
+- and some JavaScript<br>
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/task-erp<br>
+<strong>website:</strong> http://erp.stronyireszta.pl/
+<br>
+<br>
+<br>
+<br>
   
 <br><br><br>
 
