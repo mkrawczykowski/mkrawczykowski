@@ -51,6 +51,23 @@
 <br>
 <br>
 <br>
+
+### ⚡ My personal project with WP REST API, mega menu & Gutenberg blocks
+- coded from Figma
+- (almost) pixel perfect
+- mega menu
+- WP REST API
+- SASS + BEM
+- Wordpress
+- DRY PHP code
+- custom Gutenberg blocks built with ACF Pro
+- Webpack<br>
+
+<strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/musicc-gutenberg<br>
+<br>
+<br>
+<br>
+<br>
   
 <br><br><br>
 
