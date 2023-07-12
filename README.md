@@ -69,6 +69,18 @@
 <br>
 <br>
 <br>
+
+### ⚡ NextJS version of my personal project
+- coded from Figma
+- (almost) pixel perfect
+- SASS + BEM + CSS Modules
+- NextJS
+
+<strong>repo:</strong> https://github.com/mkrawczykowski/musicc-next-javascript<br>
+<br>
+<br>
+<br>
+<br>
   
 <br><br><br>
 
