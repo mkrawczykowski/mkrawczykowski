@@ -70,7 +70,7 @@
 <br>
 <br>
 
-### ⚡ NextJS version of my personal project
+### ⚡ NextJS version of my personal project with mega menu (work in progress)
 - coded from Figma
 - (almost) pixel perfect
 - SASS + BEM + CSS Modules
