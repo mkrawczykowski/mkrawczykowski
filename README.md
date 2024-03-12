@@ -6,83 +6,22 @@
 - coding from Figma, Adobe XD and even... from Adobe Photoshop ;)
 - SASS + BEM
 - JavaScript
-- WordPress + ACF Pro + just started coding custom Gutenberg blocks
+- WordPress + ACF Pro + custom Gutenberg blocks
 - DRY PHP code
 - Webpack
 
 ## Currently learning:
-- coding Gutenberg blocks
 - React
 - NextJS
 <br><br><br><br>
 
 # ⚡⚡⚡ Recent projects ⚡⚡⚡
 <br>
+### ⚡ (WORK IN PROGRESS) Wordpress-based portfolio of websites and online stores created by me since... 2010
+<strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/growing-websites-wordpress<br>
+<strong>website:</strong> https://growingwebsites.dev/portfolio
 
-### ⚡ My personal project with WP REST API, mega menu & Gutenberg blocks
 
-- coded from Figma
-- (almost) pixel perfect
-- mega menu
-- WP REST API
-- SASS + BEM
-- Wordpress
-- DRY PHP code
-- custom Gutenberg blocks built with ACF Pro
-- Webpack<br>
-
-<strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/musicc-gutenberg<br>
-<br>
-<br>
-<br>
-<br>
-
-### ⚡ A Wordpress website for a client
-- coded from Adobe XD
-- SASS + BEM
-- Wordpress
-- DRY PHP code
-- ACF Pro + sections built with Flexible Field
-- Webpack
-- ...aaand some JavaScript<br>
-
-<strong>repo + more info:</strong> https://github.com/mkrawczykowski/wordpress-for-client-acf-flexible-adobe-xd<br>
-<strong>website:</strong> https://www.klubbokserskiteddy.pl/
-<br>
-<br>
-<br>
-<br>
-
-### ⚡ (almost) Pixel perfect recruitment assignment - Wordpress website with Gutenberg
-- coded from Figma
-- (almost) pixel perfect
-- SASS + BEM
-- Wordpress
-- DRY PHP code
-- custom Gutenberg blocks built with ACF Pro
-- Webpack
-- and some JavaScript<br>
-
-<strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/task-erp<br>
-<strong>website:</strong> http://erp.stronyireszta.pl/
-<br>
-<br>
-<br>
-<br>
-
-### ⚡ NextJS version of my personal project with mega menu (work in progress)
-- coded from Figma
-- (almost) pixel perfect
-- SASS + BEM + CSS Modules
-- NextJS
-
-<strong>repo:</strong> https://github.com/mkrawczykowski/musicc-next-javascript<br>
-<br>
-<br>
-<br>
-<br>
-  
-<br><br><br>
 
 # 2021 and before
 <br>
