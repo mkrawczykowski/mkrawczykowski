@@ -18,9 +18,16 @@
 # ⚡⚡⚡ Recent projects ⚡⚡⚡
 <br>
 ### ⚡ (WORK IN PROGRESS) Wordpress-based portfolio of websites and online stores created by me since... 2010
+- mega menu built using ACF Pro
+- SASS + BEM
+- JavaScript
+- custom Gutenberg blocks
 <strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/growing-websites-wordpress<br>
 <strong>website:</strong> https://growingwebsites.dev/portfolio
-
+<br>
+<br>
+<br>
+<br>
 
 
 # 2021 and before
