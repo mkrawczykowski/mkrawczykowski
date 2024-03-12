@@ -22,7 +22,7 @@
 - mega menu built using ACF Pro
 - SASS + BEM
 - JavaScript
-- custom Gutenberg blocks
+- custom Gutenberg blocks<br><br>
 <strong>repo + more info + PNGs:</strong> https://github.com/mkrawczykowski/growing-websites-wordpress<br>
 <strong>website:</strong> https://growingwebsites.dev/portfolio
 <br>
